@@ -1,0 +1,20 @@
+.lxfs {
+    padding: 0 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.lxfs li {
+    padding: 35px 0;
+    font-size: 15px;
+    border-bottom: 2px solid #eee;
+}
+.qrcode {
+    text-align: center;
+    margin-bottom :40px;
+}
+.qrcode img {
+    width: 35%;
+}
+.qrcode p {
+    font-size:15px;
+}

@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+	-webkit-tap-highlight-color: transparent;
+	margin: 0;
+	padding: 0;
+}
+div{
+  -webkit-tap-highlight-color: transparent;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	font-family: 'MicrosoftYaHei', '微软雅黑', 'STHeitiSC';
+}
+.clearfix{
+	zoom:1;
+}
+.clearfix:after{
+	display: block;
+	content: '';
+	clear: both;
+	overflow: hidden;
+	height: 0;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+ul,ol,li{list-style-type: none;}
+a{text-decoration: none;color: #fff;}
+img{border: none;outline: none;}
+input,select{outline: none;border: none;background: none;}

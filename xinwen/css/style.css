@@ -1,0 +1,115 @@
+/*产品页css*/
+.p-header {
+    width: 100%;
+}
+.p-header img {
+    width: 100%;
+}
+.p-con {
+    padding: 20px 10px;
+}
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.title img {
+    width: 60%;
+}
+.tit2 {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.tit2 img{
+    width: 100%;
+}
+.yanliao {
+    width: 100%;
+}
+.yanliao h3 {
+    font-size: 20px;
+    text-align: center;
+    color: #941d22;
+    margin: 20px 0;
+}
+.yanliao p {
+    font-size: 12px;
+    line-height: 20px;
+    color: #1b0304;
+    margin-bottom: 20px;
+}
+.yanliao img {
+    width: 100%;
+    margin-top:20px;
+}
+.zizhi {
+    width: 100%;
+}
+.zizhi p{
+    font-size: 14px;
+    color: #1b0304;
+    margin: 0 0 20px 0 ;
+    text-align: center;
+}
+.zizhi img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.zizhi h3 {
+    font-size: 20px;
+    text-align: center;
+    color: #941d22;
+    margin-bottom: 3px;
+}
+.p-foot {
+    text-align: center;
+    margin-top: 20px;
+}
+.p-foot p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.p-foot h3 {
+    font-size: 18px;
+    color: #941d22;
+}
+.selected {
+    color: #000000;
+}
+
+@media screen and (max-width: 374px) {
+    .zizhi p{font-size: 12px;}
+}
+/*产品页css*/
+.banner {
+    width: 100%;
+}
+.banner img {
+    width: 100%;
+}
+.news-list {
+    padding: 30px 10px;
+}
+.list-title {
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #3f3f3f;
+    font-size: 15px;
+    color: #1b0304;
+}
+.list-item li {
+    margin-bottom: 10px;
+}
+.item-left, .item-right {
+    color: #3f3f3f;
+    font-size: 10px;
+
+}
+.item-left {
+    width: 72%;
+    float: left;
+}
+.item-right {
+    width: 25%;
+    float: right;
+    text-align: right;
+}
